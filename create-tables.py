@@ -2,11 +2,11 @@ import psycopg2 as pg
 import time
 
 
-HOST = "localhost"
-PORT = "5432"
-DATABASE = "biocr20191115"
-USER = "gisadmin"
-PASSWORD = "postgres"
+HOST = "<HOST>"
+PORT = "<PORT>"
+DATABASE = "<DATABASE>"
+USER = "<USER>"
+PASSWORD = "<PASSWORD>"
 
 
 def create_tables():
