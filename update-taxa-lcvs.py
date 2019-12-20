@@ -3,13 +3,12 @@ import glob
 import time
 import csv
 
-
-HOST = "localhost"
-PORT = "5432"
-DATABASE = "biocr20191115"
-SCHEMA = "public"
-USER = "gisadmin"
-PASSWORD = "postgres"
+HOST = "<HOST>"
+PORT = "<PORT>"
+DATABASE = "<DATABASE>"
+SCHEMA = "<SCHEMA>"
+USER = "<USER>"
+PASSWORD = "<PASSWORD>"
 
 DATA_DIR = "./lcvs/"
 
